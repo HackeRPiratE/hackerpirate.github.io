@@ -4,7 +4,7 @@ email: imhackerpirate@Gmail.com
 url: https://hackerpirate.github.io
 description: "Downlaod New Audios and Videos . Absoultly Free To Use ."
 keywords: "HACKERPIRATE, hackerpirate, HACKER, PIRATE, hacker, pirate, NEW, SONGS, TAMIL, NEWSONGS, TAMILSONGS, TAMILVIDEOSONGS, HINDISONGS, hindisongs, HINDI, indiansongs, INDIA, ALBUM, ALBUMSONGS, TAMILALBUMSONGS, tamilalbumsongs, Ajithsongs, AJITHSONGS, VIJAYSONGS, vijaysongs, THALASONGS, THALAPATHYSONGS, ajith songs, vijay songs, NEWTRAILERS, NEW TRAILERS, TRAILERS, Movie, TAMILFULLMOVIES, tamil full movies, FULLMOVIES, " 
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "FREE - AUDIOS - VIDEOS - FULL MOVIES - TRAILERS"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: HackeRPiratE
   location: Location
   social: Around the Web
   credits: Credits
@@ -53,8 +53,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: HackeRPiratE
-  - line: India,
-  - line: ASIA.
+  - line: India,Asia
+
 
 # Credits content
 credits: 'Our Site is a free to use, created by <a href="http://hackerpirate.github.io">HACKErPIRATE</a>.'
