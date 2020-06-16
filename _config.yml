@@ -1,7 +1,8 @@
 # Site settings
 title: HACKERPIRATE
 email: imhackerpirate@Gmail.com
-url: https://hackerpirate.github.io
+baseurl: 
+url: 
 description: "Downlaod New Audios and Videos . Absoultly Free To Use ."
 keywords: "HACKERPIRATE, hackerpirate, HACKER, PIRATE, hacker, pirate, NEW, SONGS, TAMIL, NEWSONGS, TAMILSONGS, TAMILVIDEOSONGS, HINDISONGS, hindisongs, HINDI, indiansongs, INDIA, ALBUM, ALBUMSONGS, TAMILALBUMSONGS, tamilalbumsongs, Ajithsongs, AJITHSONGS, VIJAYSONGS, vijaysongs, THALASONGS, THALAPATHYSONGS, ajith songs, vijay songs, NEWTRAILERS, NEW TRAILERS, TRAILERS, Movie, TAMILFULLMOVIES, tamil full movies, FULLMOVIES, " 
 skills: "FREE - AUDIOS - VIDEOS - FULL MOVIES - TRAILERS"
